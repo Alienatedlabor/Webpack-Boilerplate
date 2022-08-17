@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle796464feafd5d86f5ee4.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,oBAAZ;AACAD,OAAO,CAACC,GAAR,CAAY,uBAAZ,E","sources":["webpack://webpack-boilerplate/./src/index.js"],"sourcesContent":["console.log('webpack is working');\nconsole.log('watch is also working');\n"],"names":["console","log"],"sourceRoot":""}
